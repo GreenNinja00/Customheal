@@ -1,0 +1,8 @@
+name: Customheal
+version: 1.0
+main: main
+api-version: '1.20'
+commands:
+  customheal:
+   description: Heals players
+   usage: /<command> <playername> <amount>
